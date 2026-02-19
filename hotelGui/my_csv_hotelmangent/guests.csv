@@ -1,0 +1,3 @@
+name,room_number,total_days,room_type,avaliability
+yamuna,1,2,Standard Room,False
+tina,2,2,Deluxe Room,False
